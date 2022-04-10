@@ -1,0 +1,310 @@
+PODS:
+  - Ads-CN-Beta (4.2.5.2):
+    - Ads-CN-Beta/BUAdSDK (= 4.2.5.2)
+  - Ads-CN-Beta/BUAdSDK (4.2.5.2):
+    - Ads-CN-Beta/BUFoundation
+    - Ads-CN-Beta/Domestic
+  - Ads-CN-Beta/BUFoundation (4.2.5.2)
+  - Ads-CN-Beta/Domestic (4.2.5.2)
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - camera (0.0.1):
+    - Flutter
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - DKImagePickerController/Core (4.3.2):
+    - DKImagePickerController/ImageDataManager
+    - DKImagePickerController/Resource
+  - DKImagePickerController/ImageDataManager (4.3.2)
+  - DKImagePickerController/PhotoGallery (4.3.2):
+    - DKImagePickerController/Core
+    - DKPhotoGallery
+  - DKImagePickerController/Resource (4.3.2)
+  - DKPhotoGallery (0.0.17):
+    - DKPhotoGallery/Core (= 0.0.17)
+    - DKPhotoGallery/Model (= 0.0.17)
+    - DKPhotoGallery/Preview (= 0.0.17)
+    - DKPhotoGallery/Resource (= 0.0.17)
+    - SDWebImage
+    - SwiftyGif
+  - DKPhotoGallery/Core (0.0.17):
+    - DKPhotoGallery/Model
+    - DKPhotoGallery/Preview
+    - SDWebImage
+    - SwiftyGif
+  - DKPhotoGallery/Model (0.0.17):
+    - SDWebImage
+    - SwiftyGif
+  - DKPhotoGallery/Preview (0.0.17):
+    - DKPhotoGallery/Model
+    - DKPhotoGallery/Resource
+    - SDWebImage
+    - SwiftyGif
+  - DKPhotoGallery/Resource (0.0.17):
+    - SDWebImage
+    - SwiftyGif
+  - file_picker (0.0.1):
+    - DKImagePickerController/PhotoGallery
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_downloader (0.0.1):
+    - Flutter
+  - flutter_image_compress (0.0.1):
+    - Flutter
+    - Mantle
+    - SDWebImage
+    - SDWebImageWebPCoder
+  - flutter_inapp_purchase (0.0.1):
+    - Flutter
+  - flutter_tencentad (0.0.1):
+    - Flutter
+    - GDTMobSDK (~> 4.13.41)
+  - flutter_unionad (0.0.1):
+    - Ads-CN-Beta (~> 4.2.5.1)
+    - Flutter
+  - flutter_universalad (0.0.1):
+    - Flutter
+  - fluwx (0.0.1):
+    - Flutter
+    - WechatOpenSDK_Fuck (~> 1.9.2)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - GDTMobSDK (4.13.42):
+    - GDTMobSDK/GDTMobSDK (= 4.13.42)
+  - GDTMobSDK/GDTMobSDK (4.13.42)
+  - image_cropper (0.0.4):
+    - Flutter
+    - TOCropViewController (~> 2.6.0)
+  - image_gallery_saver (1.5.0):
+    - Flutter
+  - image_picker (0.0.1):
+    - Flutter
+  - launch_review (0.0.1):
+    - Flutter
+  - libwebp (1.2.1):
+    - libwebp/demux (= 1.2.1)
+    - libwebp/mux (= 1.2.1)
+    - libwebp/webp (= 1.2.1)
+  - libwebp/demux (1.2.1):
+    - libwebp/webp
+  - libwebp/mux (1.2.1):
+    - libwebp/demux
+  - libwebp/webp (1.2.1)
+  - Mantle (2.2.0):
+    - Mantle/extobjc (= 2.2.0)
+  - Mantle/extobjc (2.2.0)
+  - package_info (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - photo_manager (1.0.0):
+    - Flutter
+    - FlutterMacOS
+  - Reachability (3.2)
+  - SDWebImage (5.12.2):
+    - SDWebImage/Core (= 5.12.2)
+  - SDWebImage/Core (5.12.2)
+  - SDWebImageWebPCoder (0.8.4):
+    - libwebp (~> 1.0)
+    - SDWebImage/Core (~> 5.10)
+  - share (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sign_in_with_apple (0.0.1):
+    - Flutter
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - SVProgressHUD (2.2.5)
+  - SwiftyGif (5.4.2)
+  - TOCropViewController (2.6.0)
+  - UdeskSDK (4.3.4):
+    - UdeskSDK/SDK (= 4.3.4)
+    - UdeskSDK/UIKit (= 4.3.4)
+  - UdeskSDK/SDK (4.3.4)
+  - UdeskSDK/UIKit (4.3.4):
+    - UdeskSDK/SDK
+  - UMAPM (1.5.6)
+  - UMCCommon (7.3.6):
+    - UMAPM
+    - UMDevice
+  - UMDevice (2.2.1)
+  - url_launcher (0.0.1):
+    - Flutter
+  - video_player (0.0.1):
+    - Flutter
+  - webview_flutter (0.0.1):
+    - Flutter
+  - WechatOpenSDK_Fuck (1.9.2)
+
+DEPENDENCIES:
+  - AFNetworking
+  - camera (from `.symlinks/plugins/camera/ios`)
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - file_picker (from `.symlinks/plugins/file_picker/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_downloader (from `.symlinks/plugins/flutter_downloader/ios`)
+  - flutter_image_compress (from `.symlinks/plugins/flutter_image_compress/ios`)
+  - flutter_inapp_purchase (from `.symlinks/plugins/flutter_inapp_purchase/ios`)
+  - flutter_tencentad (from `.symlinks/plugins/flutter_tencentad/ios`)
+  - flutter_unionad (from `.symlinks/plugins/flutter_unionad/ios`)
+  - flutter_universalad (from `.symlinks/plugins/flutter_universalad/ios`)
+  - fluwx (from `.symlinks/plugins/fluwx/ios`)
+  - image_cropper (from `.symlinks/plugins/image_cropper/ios`)
+  - image_gallery_saver (from `.symlinks/plugins/image_gallery_saver/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - launch_review (from `.symlinks/plugins/launch_review/ios`)
+  - package_info (from `.symlinks/plugins/package_info/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - photo_manager (from `.symlinks/plugins/photo_manager/ios`)
+  - share (from `.symlinks/plugins/share/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sign_in_with_apple (from `.symlinks/plugins/sign_in_with_apple/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - SVProgressHUD
+  - UdeskSDK (~> 4.3.4)
+  - UMCCommon
+  - UMDevice
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+  - video_player (from `.symlinks/plugins/video_player/ios`)
+  - webview_flutter (from `.symlinks/plugins/webview_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Ads-CN-Beta
+    - AFNetworking
+    - DKImagePickerController
+    - DKPhotoGallery
+    - FMDB
+    - GDTMobSDK
+    - libwebp
+    - Mantle
+    - Reachability
+    - SDWebImage
+    - SDWebImageWebPCoder
+    - SVProgressHUD
+    - SwiftyGif
+    - TOCropViewController
+    - UdeskSDK
+    - UMAPM
+    - UMCCommon
+    - UMDevice
+    - WechatOpenSDK_Fuck
+
+EXTERNAL SOURCES:
+  camera:
+    :path: ".symlinks/plugins/camera/ios"
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  file_picker:
+    :path: ".symlinks/plugins/file_picker/ios"
+  Flutter:
+    :path: Flutter
+  flutter_downloader:
+    :path: ".symlinks/plugins/flutter_downloader/ios"
+  flutter_image_compress:
+    :path: ".symlinks/plugins/flutter_image_compress/ios"
+  flutter_inapp_purchase:
+    :path: ".symlinks/plugins/flutter_inapp_purchase/ios"
+  flutter_tencentad:
+    :path: ".symlinks/plugins/flutter_tencentad/ios"
+  flutter_unionad:
+    :path: ".symlinks/plugins/flutter_unionad/ios"
+  flutter_universalad:
+    :path: ".symlinks/plugins/flutter_universalad/ios"
+  fluwx:
+    :path: ".symlinks/plugins/fluwx/ios"
+  image_cropper:
+    :path: ".symlinks/plugins/image_cropper/ios"
+  image_gallery_saver:
+    :path: ".symlinks/plugins/image_gallery_saver/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  launch_review:
+    :path: ".symlinks/plugins/launch_review/ios"
+  package_info:
+    :path: ".symlinks/plugins/package_info/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  photo_manager:
+    :path: ".symlinks/plugins/photo_manager/ios"
+  share:
+    :path: ".symlinks/plugins/share/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sign_in_with_apple:
+    :path: ".symlinks/plugins/sign_in_with_apple/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+  video_player:
+    :path: ".symlinks/plugins/video_player/ios"
+  webview_flutter:
+    :path: ".symlinks/plugins/webview_flutter/ios"
+
+SPEC CHECKSUMS:
+  Ads-CN-Beta: 1f45258883547e0d1377f674753432a4e71199b9
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  camera: 3164201dc344383e62282964016528c4f5a9ad50
+  connectivity: c4130b2985d4ef6fd26f9702e886bd5260681467
+  DKImagePickerController: b5eb7f7a388e4643264105d648d01f727110fc3d
+  DKPhotoGallery: fdfad5125a9fdda9cc57df834d49df790dbb4179
+  file_picker: 3e6c3790de664ccf9b882732d9db5eaf6b8d4eb1
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_downloader: 058b9c41564a90500f67f3e432e3524613a7fd83
+  flutter_image_compress: fd2b476345226e1a10ea352fa306af95704642c1
+  flutter_inapp_purchase: 5c6a1ac3f11b11d0c8c0321c0c41c1f05805e4c8
+  flutter_tencentad: 5b4132e91a75360ba28ca98a7f518ff196fe6b40
+  flutter_unionad: ec89d42091375a26d3a3eddf9cef5bc88719f8cb
+  flutter_universalad: f2b8adf3c5ad758a802058176bd63f17173ea7a2
+  fluwx: c192ef1ea3617badb813fa1a761ffc5c9c12208a
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  GDTMobSDK: 7e478567111593ea036ff9bd0bf2e0b19b3606cc
+  image_cropper: f1668dd8d2cad2d357955caad15a40547856edcb
+  image_gallery_saver: 259eab68fb271cfd57d599904f7acdc7832e7ef2
+  image_picker: e06f7a68f000bd36f552c1847e33cda96ed31f1f
+  launch_review: 75d5a956ba8eaa493e9c9d4bf4c05e505e8d5ed0
+  libwebp: 98a37e597e40bfdb4c911fc98f2c53d0b12d05fc
+  Mantle: c5aa8794a29a022dfbbfc9799af95f477a69b62d
+  package_info: 873975fc26034f0b863a300ad47e7f1ac6c7ec62
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  photo_manager: 84fa94fbeb82e607333ea9a13c43b58e0903a463
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 240e5c12b592fb1268c1d03b8c90d90e8c2ffe82
+  SDWebImageWebPCoder: f93010f3f6c031e2f8fb3081ca4ee6966c539815
+  share: 0b2c3e82132f5888bccca3351c504d0003b3b410
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  sign_in_with_apple: f3bf75217ea4c2c8b91823f225d70230119b8440
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyGif: dec758a9dd3d278e5a855dbf279bf062c923c387
+  TOCropViewController: 3105367e808b7d3d886a74ff59bf4804e7d3ab38
+  UdeskSDK: e12171ab573bdd17361a37c53b9b17e2bbbf6bd3
+  UMAPM: 5ab988b8bedfd090ee2307cb80530ba79b8ac264
+  UMCCommon: 67766370204f54467c2271a13397c403992ebeec
+  UMDevice: 053478c4b4d7292f31f0a275c227d3c4007a5571
+  url_launcher: a1c0cc845906122c4784c542523d8cacbded5626
+  video_player: 9cc823b1d9da7e8427ee591e8438bfbcde500e6e
+  webview_flutter: 3603125dfd3bcbc9d8d418c3f80aeecf331c068b
+  WechatOpenSDK_Fuck: aa8f4b0af902837e887a1d40c62f06c060c1dc98
+
+PODFILE CHECKSUM: edffadf7faf6c0d73e8ce8dbf5659704985db54b
+
+COCOAPODS: 1.11.2

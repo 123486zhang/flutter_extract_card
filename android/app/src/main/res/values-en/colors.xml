@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFE25E</color>
+    <color name="colorPrimaryDark">#FFE25E</color>
+    <color name="colorAccent">#FFE25E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="color_333333">#333333</color>
+    <color name="line_color">#eeeeee</color>
+    <color name="color_666666">#666666</color>
+    <color name="main_color">#FFFFE25E</color>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:drawableLeft="@mipmap/ic_group_select"
+        android:drawablePadding="8dp"
+        android:text="存储权限"
+        android:textColor="#222222"
+        android:textSize="13dp" />
+
+    <TextView
+        android:id="@+id/tvMsg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="22dp"
+        android:layout_marginTop="5dp"
+        android:text="该权限要获取软件内文件的读、写权限，以保证此软件内的功能可正常使用，若您不想使用该功能，您可以拒绝申请。需要使用此权限的功能有群内加好友、一键群发等功能。"
+        android:textColor="#222222"
+        android:textSize="12dp" />
+</LinearLayout>

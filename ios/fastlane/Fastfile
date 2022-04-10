@@ -1,0 +1,25 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Description of what the lane does"
+  lane :pgyer_lane do
+    # add actions here: https://docs.fastlane.tools/actions
+    build_app(export_method: "ad-hoc")
+    pgyer(api_key: "2e63d0ab5bfbd9d8d52cb9591c7d187a", user_key: "5faa0803111ed0e191aaf876b5ff2c31")
+  end
+end
